@@ -29,9 +29,8 @@ _Linkedin:_ https://www.linkedin.com/in/denis-poltorako/
 [Link to my Github](https://github.com/POLTOR92/rsschool-cv) 
 
 ### Experience
-2020 DesidnSpot School S2:E1 \
-2019 UI/UX design at IT-Academy 
-
+* 2020 DesidnSpot School S2:E1
+* 2019 UI/UX design at IT-Academy
 
 ### Education
 2010-2015 Belarusian State AgrarianTechnical University \Automation Of Technological Processes And Production
