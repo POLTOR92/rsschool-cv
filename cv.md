@@ -2,7 +2,6 @@
 
 # Dzianis Paltaraka
 ##### _Junior Developer_
-
 ***********************
 ### Contacts
 _E-mail:_ p0lt0r@ya.ru \
@@ -34,7 +33,6 @@ _Linkedin:_ https://www.linkedin.com/in/denis-poltorako/
 
 ### Education
 2010-2015 Belarusian State AgrarianTechnical University \Automation Of Technological Processes And Production
-
 
 ### English level 
 Pre-Intermediate Level (A2)
